@@ -12,6 +12,7 @@
 * Conducted Principal Component Analysis; 
 * Partitioned training and validation data; 
 * Built supervised predictive model like logistics regression, decision tree, neutral network, boosted tree and bootstrap forest model; 
+* （Although unsupervised machine learning techniques are not feasible in this case, it's necessary to know there are several unsupervised descriptive models should be taken into account in other cases, like: K-means clustering, agglomerative clustering, K-nearest neighbors, Naïve Bayes classifiers, Market Basket Association;)
 * Adjusted cut-off value for reducing misclassification rate and compared confusion matrix, AUC, RMSE; 
 * Selected best model and obtained prediction formulas; 
 * Contributed to final presentation and report writing.
